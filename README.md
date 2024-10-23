@@ -3,7 +3,7 @@ Useful scripts for productivity
 
 ## Description of scripts
 
-### Copy markdown link
+### copy-markdown-link.js
 
 This script is meant to be used in Tampermonkey (or any other scripting tool for your favourite web browser, if you can adapt it). It adds a button at the bottom of your window, so you can easily copy and paste a Markdown link. I wanted to have a quick way to grab url links for Obsidian, so here it is. 
 
